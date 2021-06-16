@@ -1,0 +1,19 @@
+.body-subscribe {
+    padding-top: 25px;
+    padding-left: 25px;
+    background-color: #78628c;
+    color: white;
+    width: calc(100% - 25px);
+    height: calc(100% - 2px);
+    border-bottom: 2px dashed white;
+}
+
+.description-wrapper {
+    margin-bottom: 5px;
+}
+
+.submit-button {
+    margin-left: 25px;
+    display: inline-block;
+}
+

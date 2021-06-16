@@ -1,0 +1,17 @@
+.body-biggestinfluencer {
+    padding-top: 25px;
+    background-color: #b71d4b;
+    color: white;
+    width:100%;
+    height: calc(100% - 50px);
+}
+
+h1 {
+    padding-left: 25px;
+}
+
+.centerText {
+    padding-top: 35px;
+    text-align: center;
+    font-size: 56px;
+}
